@@ -80,7 +80,7 @@ The website includes:
 
 **Andrés Darío Alomá Alonso**  
 Full Stack Developer — React / Web Optimization  
-🌐 [GitHub Profile](https://github.com/daro) | ✉️ contacto@daro.dev
+🌐 [GitHub Profile](https://github.com/Adaro45) | ✉️ andresdaloma@gmail.com
 
 ---
 
